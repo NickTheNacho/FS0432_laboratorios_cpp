@@ -1,0 +1,50 @@
+===== SISTEMA DE NOTAS =====
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 10
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): -5
+Nota inválida. Intente nuevamente.
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 71
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 83
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 46
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 52
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 95
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 100
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 101
+Nota inválida. Intente nuevamente.
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 97
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 67.7
+
+Ingrese una nota entre 0 y 100 (o -1 para terminar): 89.5
+
+Notas validas ingresadas:
+Nota 1: 10
+Nota 2: 71
+Nota 3: 83
+Nota 4: 46
+Nota 5: 52
+Nota 6: 95
+Nota 7: 100
+Nota 8: 97
+Nota 9: 67.7
+Nota 10: 89.5
+
+Clasificación del grupo:
+Reprobados: 3
+Aprobados: 4
+Sobresalientes: 3
+
+Promedio del grupo: 71.12
+
+Nota máxima: 100
+Nota mínima: 10
+
