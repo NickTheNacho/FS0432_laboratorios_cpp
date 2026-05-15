@@ -1,0 +1,9 @@
+Introduzca numero de subintervalos
+Integral de 4/(1+x^2) en [0, 1]
+ 
+Trapecio compuesto: 3.14159
+Simpson compuesto: 3.14159
+Valor exacto: 3.14159
+ 
+Error trapecio: 6.66667e-07
+Error Simpson: 0
