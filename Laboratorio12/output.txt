@@ -1,0 +1,4 @@
+dt        = 0.000080
+num_steps = 1250
+t_final   = 0.100000
+Animacion guardada: calor_2d.gif
