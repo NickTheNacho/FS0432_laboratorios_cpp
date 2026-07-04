@@ -1,0 +1,13 @@
+------------------------------------
+Resultado del producto punto: 128000
+Tiempo de ejecucion del bucle (1 procesos): 0.346951 ms
+------------------------------------
+Resultado del producto punto: 128000
+Tiempo de ejecucion del bucle (2 procesos): 0.183856 ms
+------------------------------------
+Resultado del producto punto: 128000
+Tiempo de ejecucion del bucle (4 procesos): 0.095236 ms
+------------------------------------
+Resultado del producto punto: 128000
+Tiempo de ejecucion del bucle (8 procesos): 0.07076 ms
+------------------------------------
